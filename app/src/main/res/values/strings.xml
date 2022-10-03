@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PharmaQuizApp</string>
+    <string name="app_name_short">Pharma \nQuiz</string>
+    <string name="text_input_hint">Imię:</string>
+    <string name="give_your_name">Podaj swoje imię:</string>
+    <string name="main_activity_btn">START</string>
+    <string name="sample_question">Przydatność diuretyków w leczeniu obrzęków ostrych (np. pluc) i przewlekłych opiera się na zdolności zwiększania wydalania NaCl i wody, co jest warunkiem niezbędnym do ich usunięcia. Obrzęki występujqce u kobiet ciężarnych:</string>
+</resources>
